@@ -1,0 +1,5 @@
+asyncio
+logging
+winrm
+requests
+cryptography
